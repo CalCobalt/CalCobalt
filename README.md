@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![osu! signature card](https://osu-sig.s23.moe/card?user=CalCobalt&mode=std&round_avatar=true&animation=true&hue=96)](https://osu.ppy.sh/u/CalCobalt)
+
 <!--
 **CalCobalt/CalCobalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
